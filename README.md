@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @noninkysquid
+- 👀 I’m interested in ...typescript
+- 🌱 I’m currently learning ...scss
+- 📫 How to reach me ...email: noninkysquid@gmail.com
